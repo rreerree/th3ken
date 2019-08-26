@@ -1,0 +1,47 @@
+{
+   "binds.back_shot" : 0,
+   "binds.configs" : [
+      {
+         "key" : 0,
+         "name" : "armsrace"
+      },
+      {
+         "key" : 0,
+         "name" : "legit"
+      },
+      {
+         "key" : 0,
+         "name" : "mevlana"
+      },
+      {
+         "key" : 0,
+         "name" : "rage"
+      },
+      {
+         "key" : 0,
+         "name" : "temiz ayar"
+      },
+      {
+         "key" : 0,
+         "name" : "trolling"
+      },
+      {
+         "key" : 0,
+         "name" : "wallhack"
+      }
+   ],
+   "binds.desync" : 1,
+   "binds.esp" : 0,
+   "binds.fake_duck" : 0,
+   "binds.fake_lag" : 0,
+   "binds.lightning_shot" : 20,
+   "binds.slow_walk" : 0,
+   "binds.thirdperson" : 86,
+   "binds.trigger" : 0,
+   "binds.zeus_bot" : 0,
+   "clantag" : "TH3KEN",
+   "no_animations" : false,
+   "post_processing" : false,
+   "russian_language" : false,
+   "settings" : "temiz ayar"
+}
